@@ -1,0 +1,9 @@
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong6_TruongNguyenTrungKhang_22520629\Winform_DataSet\bin\Debug\Winform_DataSet.exe.config
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong6_TruongNguyenTrungKhang_22520629\Winform_DataSet\bin\Debug\Winform_DataSet.exe
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong6_TruongNguyenTrungKhang_22520629\Winform_DataSet\bin\Debug\Winform_DataSet.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong6_TruongNguyenTrungKhang_22520629\Winform_DataSet\obj\Debug\Winform_DataSet.csproj.AssemblyReference.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong6_TruongNguyenTrungKhang_22520629\Winform_DataSet\obj\Debug\Winform_DataSet.Properties.Resources.resources
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong6_TruongNguyenTrungKhang_22520629\Winform_DataSet\obj\Debug\Winform_DataSet.csproj.GenerateResource.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong6_TruongNguyenTrungKhang_22520629\Winform_DataSet\obj\Debug\Winform_DataSet.csproj.CoreCompileInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong6_TruongNguyenTrungKhang_22520629\Winform_DataSet\obj\Debug\Winform_DataSet.exe
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong6_TruongNguyenTrungKhang_22520629\Winform_DataSet\obj\Debug\Winform_DataSet.pdb
