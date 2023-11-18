@@ -17,7 +17,7 @@ namespace Winform_DataSet
         {
             InitializeComponent();
 
-            string strConn = @"Server=LAKHANGDO\MYDATABASE;Database=StudentDB;User Id=sa;Password=190375;";
+            string strConn = @"EnterTheConnectionStringHere";
             string strCmd = "Select * From Sinhvien";
             SqlDataAdapter da = new SqlDataAdapter(strCmd, strConn);
             SqlCommandBuilder builder = new SqlCommandBuilder(da);

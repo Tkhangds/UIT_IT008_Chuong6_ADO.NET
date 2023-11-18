@@ -21,7 +21,7 @@ namespace Winform_DataProvider
         public Form1()
         {
             InitializeComponent();
-            cnn.ConnectionString = @"Server=LAKHANGDO\MYDATABASE;Database=StudentDB;User Id=sa;Password=190375;";
+            cnn.ConnectionString = @"EnterTheConnectionStringHere";
 
             //Init Query
 
